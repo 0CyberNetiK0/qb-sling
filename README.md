@@ -10,5 +10,5 @@ If you want to add other weapons add them to the config.lua file in the same way
 Commands
 `/sling` - Toggle if the sling should be in the front or back of the body. For the weapon to switch just take it out and put it away again.
 
-Test
-Teest
+Important
+Put in the `[standalone]` folder!
