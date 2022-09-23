@@ -12,3 +12,5 @@ Commands
 
 Important
 Put in the `[standalone]` folder!
+
+[[[[[To Follow Up Issues with clothing store]]]]]
